@@ -88,22 +88,28 @@ Then the content should be unique and reflect the skills and personality of the 
 
 
 Number and name of feature: Feature #1: Deployment
-
 Estimate of time needed to complete: 30 minutes
-
 Start time: 4:00pm
-
 Finish time: 5-5:15pm
-
 Actual time needed to complete: 60-75 minutes
 
 
 Number and name of feature: Feature #2: Refactor the CSS
-
 Estimate of time needed to complete: 60 minutes
+Start time: 10:30am
+Finish time: 11:45am
+Actual time needed to complete: 75 minutes
 
-Start time: 10:15pm
 
-Finish time: pm
+Number and name of feature: Feature #3: Modify the contents
+Estimate of time needed to complete: 45 minutes
+Start time: 10:30am
+Finish time: 12:00pm
+Actual time needed to complete: 90 minutes
 
-Actual time needed to complete:  minutes
+
+Number and name of feature: Feature #4: Add functionality
+Estimate of time needed to complete: 60 minutes
+Start time: 10:30am
+Finish time: 12:00am
+Actual time needed to complete: 90 minutes
